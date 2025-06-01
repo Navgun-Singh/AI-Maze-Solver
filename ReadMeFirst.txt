@@ -1,4 +1,4 @@
-1. FILE 'maze.txt':
+1. FILE 'maze.txt'(you can change it according to your wish it is just an example):
   It is the main Maze which AI is going to Solve where:
     > 0 is the EMPTY SPACE where we can GO.
     > 1 is are WALLS.
